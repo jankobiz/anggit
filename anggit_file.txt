@@ -1,3 +1,3 @@
 Angular2 Git
-Another line
+Altered Another line to complicate things
 Third line in another branch
