@@ -1,4 +1,4 @@
 Angular2 Git
 Altered Another line to complicate things
-Third line in another branch
-Forth line in third branch
+Third line in fourth branch
+Forth line in fourth branch
